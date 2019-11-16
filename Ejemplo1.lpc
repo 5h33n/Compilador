@@ -1,0 +1,4 @@
+PROCEDURE hw;
+OUTPUT("hello world");
+END;
+CALL hw;
